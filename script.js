@@ -9,7 +9,7 @@
     { name: "4장(2) [암전] 낡은 빗소리", file: "4장(2) [암전] 낡은 빗소리.mp3" },
     { name: "5장(0) [휴지] House Of Despair(절망의 집)", file: "5장(0) [휴지] House Of Despair(절망의 집).mp3" },
     { name: "5장(1) [아이 울음 소리]", file: "5장(1) [아이 울음 소리].mp3" },
-    { name: "6장(1) [독백] Arvo Part, Cantus in memoriam Benjamin Britten", file: "6장(1) [독백] Arvo Part, Cantus in memoriam Benjamin Britten" },
+    { name: "6장(1) [독백] Arvo Part, Cantus in memoriam Benjamin Britten", file: "6장(1) [독백] Arvo Part, Cantus in memoriam Benjamin Britten.mp3" },
     { name: "7장(1) [암전] 힘든결정", file: "7장(1) [암전] 힘든결정.mp3" },
     { name: "7장(2) [까마귀]", file: "7장(2) [까마귀].mp3" },
     { name: "7장(3) [아이 울음 소리]", file: "7장(3) [아이 울음 소리].mp3" },
