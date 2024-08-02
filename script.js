@@ -1,32 +1,33 @@
 ﻿const sounds = [
-    { name: '1장(1) [결혼식]
-        욕망의 정점', file: "1장(1) [결혼식] 욕망의 정점.mp3" },
-    { name: '1장(2) [NA]
-     수상한 그 남자, 기억조작', file: "1장(2) [NA] 수상한 그 남자, 기억조작.mp3" },
-    { name: '1장(3,4) [M,계]
-        깨져버린 유리잔
-        비 속에서의 회고', file: "1장(3,4) [M,계] 깨져버린 유리잔, 비 속에서의 회고.mp3" },
-    { name: '1장(5) [암전]', file: "1장(5) 암전.mp3" },
-    { name: '2장(1) [암전]
-        의혹', file: "2장(1) [암전] 의혹.mp3" },
-    { name: '3장(1) [암전]
-        검은색 진실', file: "3장(1) [암전] 검은색 진실.mp3" },
-    { name: '4장(1) [NA]
-        보이지 않는 눈
-        내게 닥친 비극', file: "4장(1) [NA] 보이지 않는 눈, 내게 닥친 비극.mp3" },
-    { name: '4장(2) [암전]
-            낡은 빗소리', file: "4장(2) [암전] 낡은 빗소리.mp3" },
-    { name: '5장(0) [휴지]
-            House Of Despair(절망의 집)', file: "5장(0) [휴지] House Of Despair(절망의 집).mp3" },
-    { name: '5장(1) [아이 울음 소리]', file: "5장(1) [아이 울음 소리].mp3" },
-    { name: '6장(1) [독백]
-        Arvo Part,
-        Cantus in memoriam Benjamin Britten', file: "6장(1) [독백] Arvo Part, Cantus in memoriam Benjamin Britten.mp3" },
-    { name: '7장(1) [암전]
-        힘든결정', file: "7장(1) [암전] 힘든결정.mp3" },
-    { name: '7장(2) [까마귀]', file: "7장(2) [까마귀].mp3" },
-    { name: '7장(3) [아이 울음 소리]', file: "7장(3) [아이 울음 소리].mp3" },
-    { name: '노들강변', file: "노들강변.mp3" }
+    { name: "1장(1) [결혼식]<br>
+        욕망의 정점", file: "1장(1) [결혼식] 욕망의 정점.mp3" },
+    { name: "1장(2) [NA]<br>
+     수상한 그 남자<br>
+     기억조작", file: "1장(2) [NA] 수상한 그 남자, 기억조작.mp3" },
+    { name: "1장(3,4) [M,계]<br>
+        깨져버린 유리잔<br>
+        비 속에서의 회고", file: "1장(3,4) [M,계] 깨져버린 유리잔, 비 속에서의 회고.mp3" },
+    { name: "1장(5) [암전]", file: "1장(5) 암전.mp3" },
+    { name: "2장(1) [암전]<br>
+        의혹", file: "2장(1) [암전] 의혹.mp3" },
+    { name: "3장(1) [암전]<br>
+        검은색 진실", file: "3장(1) [암전] 검은색 진실.mp3" },
+    { name: "4장(1) [NA]<br>
+        보이지 않는 눈<br>
+        내게 닥친 비극", file: "4장(1) [NA] 보이지 않는 눈, 내게 닥친 비극.mp3" },
+    { name: "4장(2) [암전]<br>
+            낡은 빗소리", file: "4장(2) [암전] 낡은 빗소리.mp3" },
+    { name: "5장(0) [휴지]<br>
+            House Of Despair(절망의 집)", file: "5장(0) [휴지] House Of Despair(절망의 집).mp3" },
+    { name: "5장(1) [아이 울음 소리]", file: "5장(1) [아이 울음 소리].mp3" },
+    { name: "6장(1) [독백]<br>
+        Arvo Part,<br>
+        Cantus in memoriam Benjamin Britten", file: "6장(1) [독백] Arvo Part, Cantus in memoriam Benjamin Britten.mp3" },
+    { name: "7장(1) [암전]<br>
+        힘든결정", file: "7장(1) [암전] 힘든결정.mp3" },
+    { name: "7장(2) [까마귀]", file: "7장(2) [까마귀].mp3" },
+    { name: "7장(3) [아이 울음 소리]", file: "7장(3) [아이 울음 소리].mp3" },
+    { name: "노들강변", file: "노들강변.mp3" }
 ];
 
 const soundButtons = document.getElementById('soundButtons');
