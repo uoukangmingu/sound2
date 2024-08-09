@@ -13,7 +13,8 @@
     { name: "6장(1) [독백] Arvo Part, Cantus in memoriam Benjamin Britten", file: "6장(1) [독백] Arvo Part, Cantus in memoriam Benjamin Britten.mp3" },
     { name: "7장(1) [암전] 힘든결정", file: "7장(1) [암전] 힘든결정.mp3" },
     { name: "7장(2) [까마귀]", file: "7장(2) [까마귀].mp3" },
-    { name: "7장(3) [아이 울음 소리]", file: "7장(3) [아이 울음 소리].mp3" }
+    { name: "7장(3) [아이 울음 소리]", file: "7장(3) [아이 울음 소리].mp3" },
+    { name: "커튼콜 곡", file: "커튼콜 곡.mp3" }
 ];
 
 const soundButtons = document.getElementById('soundButtons');
