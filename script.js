@@ -11,6 +11,7 @@
     { name: "6장(1) [독백] Arvo Part, Cantus in memoriam Benjamin Britten", file: "6장(1) [독백] Arvo Part, Cantus in memoriam Benjamin Britten.mp3" },
     { name: "7장(1) Sad Cinematic Emotional Intro", file: "7장(1) Sad Cinematic Emotional Intro.mp3" },
     { name: "7장(2) [까마귀]", file: "7장(2) [까마귀].mp3" },
+    { name: "etc 새 날아감", file: "etc 새 날아감.mp3" },
     { name: "7장(3) [아이 울음 소리]", file: "7장(3) [아이 울음 소리].mp3" },
     { name: "커튼콜 곡", file: "커튼콜 곡.mp3" }
 ];
