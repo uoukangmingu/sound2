@@ -6,6 +6,7 @@
     { name: "3장(1) [암전] 의혹", file: "3장(1) [암전] 의혹.mp3" },
     { name: "4장(1) summer overture", file: "4장(1) summer overture.mp3" },
     { name: "4장(2) [암전] 그 집에 얽힌 슬픈 사연", file: "4장(2) [암전] 그 집에 얽힌 슬픈 사연.mp3" },
+    { name: "5장(0) 이명", file: "5장(0) 이명.mp3" },
     { name: "5장(1) [암전] 뒤틀림, 아이 울음 소리", file: "5장(1) [암전] 뒤틀림, 아이 울음 소리.mp3" },
     { name: "5장(2) 아이 울음 소리", file: "5장(2) 아이 울음 소리.mp3" },
     { name: "6장(1) [독백] Arvo Part, Cantus in memoriam Benjamin Britten", file: "6장(1) [독백] Arvo Part, Cantus in memoriam Benjamin Britten.mp3" },
