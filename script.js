@@ -2,6 +2,7 @@
     { name: "1장(1) [결혼식] 욕망의 정점", file: "1장(1) [결혼식] 욕망의 정점.mp3" },
     { name: "1장(2) 기억조작", file: "1장(2) 기억조작.mp3" },
     { name: "1장(2-1) T등장", file: "1장(2-1) T등장.mp3" },
+    { name: "풍덩", file: "풍덩.mp3" },
     { name: "1장(3) 국악", file: "1장(3) 국악.mp3" },
     { name: "2장(1) [암전] 힘든결정", file: "2장(1) [암전] 힘든결정.mp3" },
     { name: "2장(2) House Of Despair", file: "2장(2) House Of Despair.mp3" },
@@ -18,7 +19,7 @@
     { name: "7장(3) [아이 울음 소리]", file: "7장(3) [아이 울음 소리].mp3" },
     { name: "커튼콜 곡", file: "커튼콜 곡.mp3" },
     { name: "성냥", file: "성냥.mp3" },
-    { name: "풍덩", file: "풍덩.mp3" }
+    { name: "하우스 뮤직", file: "하우스 뮤직.mp3" }
 ];
 
 const soundButtons = document.getElementById('soundButtons');
