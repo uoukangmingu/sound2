@@ -1,6 +1,7 @@
 ﻿const sounds = [
     { name: "1장(1) [결혼식] 욕망의 정점", file: "1장(1) [결혼식] 욕망의 정점.mp3" },
     { name: "1장(2) 기억조작", file: "1장(2) 기억조작.mp3" },
+    { name: "1장(2-1) T등장", file: "1장(2-1) T등장.mp3" },
     { name: "1장(3) 국악", file: "1장(3) 국악.mp3" },
     { name: "2장(1) [암전] 힘든결정", file: "2장(1) [암전] 힘든결정.mp3" },
     { name: "2장(2) House Of Despair", file: "2장(2) House Of Despair.mp3" },
