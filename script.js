@@ -15,8 +15,8 @@
     { name: "7장(1) Sad Cinematic Emotional Intro", file: "7장(1) Sad Cinematic Emotional Intro.mp3" },
     { name: "7장(2) [까마귀]", file: "7장(2) [까마귀].mp3" },
     { name: "etc 새 날아감", file: "etc 새 날아감.mp3" },
-    { name: "7장(2) [암전] 힘든결정", file: "2장(1) [암전] 힘든결정.mp3" },
-    { name: "7장(3) [아이 울음 소리]", file: "7장(3) [아이 울음 소리].mp3" },
+    { name: "7장(3) [암전] 힘든결정", file: "2장(1) [암전] 힘든결정.mp3" },
+    { name: "7장(4) [아이 울음 소리]", file: "7장(3) [아이 울음 소리].mp3" },
     { name: "하우스 뮤직", file: "하우스 뮤직.mp3" },
     { name: "커튼콜 곡", file: "커튼콜 곡.mp3" }
 ];
