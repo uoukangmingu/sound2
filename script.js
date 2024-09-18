@@ -3,8 +3,7 @@
     { name: "1장(2) 기억조작", file: "1장(2) 기억조작.mp3" },
     { name: "풍덩", file: "풍덩.mp3" },
     { name: "1장(3) 국악", file: "1장(3) 국악.mp3" },
-    { name: "2장(1) [암전] 힘든결정", file: "2장(1) [암전] 힘든결정.mp3" },
-    { name: "2장(2) House Of Despair", file: "2장(2) House Of Despair.mp3" },
+    { name: "2장(1) House Of Despair", file: "2장(2) House Of Despair.mp3" },
     { name: "3장(1) [암전] 의혹", file: "3장(1) [암전] 의혹.mp3" },
     { name: "4장(1) summer overture", file: "4장(1) summer overture.mp3" },
     { name: "4장(2) [암전] 그 집에 얽힌 슬픈 사연", file: "4장(2) [암전] 그 집에 얽힌 슬픈 사연.mp3" },
@@ -16,6 +15,7 @@
     { name: "7장(1) Sad Cinematic Emotional Intro", file: "7장(1) Sad Cinematic Emotional Intro.mp3" },
     { name: "7장(2) [까마귀]", file: "7장(2) [까마귀].mp3" },
     { name: "etc 새 날아감", file: "etc 새 날아감.mp3" },
+    { name: "7장(2) [암전] 힘든결정", file: "2장(1) [암전] 힘든결정.mp3" },
     { name: "7장(3) [아이 울음 소리]", file: "7장(3) [아이 울음 소리].mp3" },
     { name: "하우스 뮤직", file: "하우스 뮤직.mp3" },
     { name: "커튼콜 곡", file: "커튼콜 곡.mp3" }
