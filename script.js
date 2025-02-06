@@ -6,6 +6,7 @@
     { name: "에너지2", file: "에너지2.mp3" },
     { name: "에너지3", file: "에너지3.mp3" },
     { name: "궤도변경이후", file: "궤도변경이후.mp3" },
+    { name: "치지직", file: "치지직.mp3" },
     { name: "회상-시간이 없어", file: "회상-시간이 없어.mp3" },
     { name: "타임머신 완성", file: "타임머신 완성.mp3" },
     { name: "타임머신 작동-과거도착", file: "타임머신 작동-과거도착.mp3" },
@@ -23,11 +24,16 @@
     { name: "침착해(의사)", file: "침착해(의사).mp3" },
     { name: "짠짜라", file: "짠짜라.mp3" },
     { name: "기억삭제", file: "기억삭제.mp3" },
+    { name: "시계탑", file: "시계탑.mp3" },
+    { name: "과거-현재(타임머신)", file: "과거-현재(타임머신).mp3" },
     { name: "소행성 충돌 해제", file: "소행성 충돌 해제.mp3" },
     { name: "나레이션 전", file: "나레이션 전.mp3" },
     { name: "나레이션", file: "나레이션.mp3" },
     { name: "전화연결음", file: "전화연결음.mp3" },
-    { name: "국세라 벨소리", file: "국세라 벨소리.mp3" }
+    { name: "썸남전화(1)", file: "썸남전화(1).mp3" },
+    { name: "썸남전화(2)", file: "썸남전화(2).mp3" },
+    { name: "국세라 벨소리", file: "국세라 벨소리.mp3" },
+    { name: "커튼콜", file: "커튼콜.mp3" },
 ];
 
 const soundButtons = document.getElementById('soundButtons');
