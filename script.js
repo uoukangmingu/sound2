@@ -33,7 +33,7 @@
     { name: "썸남전화(1)", file: "썸남전화(1).mp3" },
     { name: "썸남전화(2)", file: "썸남전화(2).mp3" },
     { name: "국세라 벨소리", file: "국세라 벨소리.mp3" },
-    { name: "커튼콜", file: "커튼콜.mp3" },
+    { name: "커튼콜", file: "커튼콜.mp3" }
 ];
 
 const soundButtons = document.getElementById('soundButtons');
